@@ -8,7 +8,7 @@ Ejecuatr el comando
 go get -u github.com/migleor/greetings
 ```
 ## Uso
-Para utilizar el módulo sigue las siguientes instrucciones:
+Para utilizar el módulo llama la función Hellos pasando un slice de nombres
 
 ```go
 package main
